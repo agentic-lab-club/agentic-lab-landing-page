@@ -1,3 +1,9 @@
-export default function Header({ title }) {
-  return <h1 className="title">{title}</h1>
+import Navigation from './Navigation';
+
+export default function Header() {
+  return (
+    <header>
+      <Navigation />
+    </header>
+  );
 }
