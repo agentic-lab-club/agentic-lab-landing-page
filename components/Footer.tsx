@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="mt-auto w-full px-8 mx-auto">
         <div className="flex flex-col items-center justify-center w-full py-4 mt-12 border-t border-stone-500 md:flex-row md:justify-between">
           <p className="block mb-4 text-sm text-center text-stone-500 md:mb-0">
-            Agentic Lab • AI Community • created with Agentic Lab - Core Team
+            Agentic Lab • AI Community • created by Core Team, &copy; 2026 Agentic Lab. All rights reserved.
           </p>
         </div>
       </div>

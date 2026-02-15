@@ -1,0 +1,6 @@
+[     350ms] [WARNING] [HMR] Invalid message: {"type":"isrManifest","data":{"/socials":true,"/":true}}
+TypeError: Cannot read properties of undefined (reading 'components')
+    at handleStaticIndicator (http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2672:46)
+    at processMessage (http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2686:17)
+    at http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2560:13
+    at WebSocket.handleMessage (http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2205:17) @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231

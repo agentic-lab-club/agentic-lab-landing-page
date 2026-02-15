@@ -9,30 +9,46 @@
 
 @layer base {
   * {
-    @apply box-border m-0 p-0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
   }
 
   html,
   body {
-    @apply min-h-screen font-lexend scroll-smooth overflow-x-hidden;
+    min-height: 100vh;
+    font-family: 'Lexend', sans-serif;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
     background-color: oklch(21.6% .006 56.043); /* stone-900 */
     color: oklch(86.9% .005 56.366); /* stone-300 */
   }
 
   body {
-    @apply leading-relaxed;
+    line-height: 1.625;
   }
 
   h1, h2, h3, h4, h5, h6 {
-    @apply font-semibold leading-tight text-stone-300;
+    font-weight: 600;
+    line-height: 1.25;
+    color: oklch(86.9% .005 56.366); /* stone-300 */
   }
 
   a {
-    @apply text-stone-400 no-underline transition-all duration-300 hover:text-stone-200;
+    color: oklch(75.7% .009 56.366); /* stone-400 */
+    text-decoration: none;
+    transition: all 0.3s;
+  }
+
+  a:hover {
+    color: oklch(95.3% .004 56.366); /* stone-200 */
   }
 
   main {
-    @apply min-h-screen w-full relative z-[1];
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+    z-index: 1;
   }
 }
 
@@ -46,16 +62,25 @@
 
   /* Coffee link styling */
   .coffee-link {
-    @apply text-[#57534d] underline decoration-1;
+    color: #57534d;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
     text-underline-offset: 3px;
   }
 
   .coffee-link:hover {
-    @apply text-[#d9b091];
+    color: #d9b091;
   }
 
   /* Snow container */
   #snow-container {
-    @apply fixed top-0 left-0 w-full h-full pointer-events-none z-0 overflow-hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 0;
+    overflow: hidden;
   }
 }
