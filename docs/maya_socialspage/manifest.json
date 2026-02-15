@@ -1,0 +1,72 @@
+{
+  "version": "1.0",
+  "tool": "website_one_page",
+  "seed_url": "https://maya-cafe.netlify.app/socials",
+  "seed_origin": "https://maya-cafe.netlify.app:443",
+  "seed_host": "maya-cafe.netlify.app",
+  "final_url": "https://maya-cafe.netlify.app/socials?ff_seed=48",
+  "final_host": "maya-cafe.netlify.app",
+  "origin_lock_mode": "host_only",
+  "captured_at": "2026-02-15T17:24:47.890352Z",
+  "base_href_used": false,
+  "base_href_value": null,
+  "budgets": {
+    "max_pages": 1,
+    "max_assets": 200,
+    "max_assets_per_page": 200,
+    "max_redirects": 5,
+    "max_css_import_depth": 2,
+    "max_html_bytes": 2097152,
+    "max_css_bytes": 1048576,
+    "max_asset_bytes": 104857600,
+    "max_total_asset_bytes": 52428800
+  },
+  "budgets_used": {
+    "pages": 1,
+    "assets": 6,
+    "total_asset_bytes": 485811
+  },
+  "counts": {
+    "html_pages": 1,
+    "assets_total": 7,
+    "assets_included": 6,
+    "assets_excluded": 1
+  },
+  "excluded": [
+    {
+      "url": "https://code.jquery.com/jquery-3.7.1.min.js",
+      "reason": "cross_origin_blocked"
+    }
+  ],
+  "mapping": {
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=500&url=_astro%2Fmaya_circle.BhsikGBb.png&w=500": {
+      "local_path": "assets/bcbb22bbf79883ba0edcfef7cae6497d2f7daa33365c5a0429d3459730be9d5b.png",
+      "content_type": "image/png"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=51&url=_astro%2Flogo.Bw3FzQPs.png&w=53": {
+      "local_path": "assets/60ed555beb9167588f2f384b0337876fbd6f3940fb4dd56ccf1f4b8eb13d00fa.png",
+      "content_type": "image/png"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=64&url=_astro%2Fcoffee_blink.Dd5WfE_y.webp&w=498": {
+      "local_path": "assets/5b2a6ce0f0bde2a0d89d9558949dad75d4a6eacd74a4522e286ce4266b512393.webp",
+      "content_type": "image/webp"
+    },
+    "https://maya-cafe.netlify.app/_astro/about.pOYMZnh-.css?dpl=0": {
+      "local_path": "assets/4c9dcec0e6038361f60bbf79b16b3a45cbd35b3e82a4d63f972126b5e38bfc1e.css",
+      "content_type": "text/css; charset=UTF-8"
+    },
+    "https://maya-cafe.netlify.app/_astro/bg.1mnMPH56.jpeg": {
+      "local_path": "assets/a332f0c1b808548bc0b9763c25eddc606da33c4bb480704c3b245194ba6a7849.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://maya-cafe.netlify.app/favicon.ico": {
+      "local_path": "assets/8ff1f6e200db40d23fa53fafbb70ffa95eac5f52b3c3ab94a554fe93fb371dd0.bin",
+      "content_type": "image/vnd.microsoft.icon"
+    }
+  },
+  "heuristics": {
+    "script_src_count": 2,
+    "meaningful_elements": 59,
+    "text_content_length": 316
+  }
+}

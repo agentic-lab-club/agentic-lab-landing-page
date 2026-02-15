@@ -1,0 +1,284 @@
+{
+  "version": "1.0",
+  "tool": "website_one_page",
+  "seed_url": "https://maya-cafe.netlify.app/",
+  "seed_origin": "https://maya-cafe.netlify.app:443",
+  "seed_host": "maya-cafe.netlify.app",
+  "final_url": "https://maya-cafe.netlify.app/",
+  "final_host": "maya-cafe.netlify.app",
+  "origin_lock_mode": "host_only",
+  "captured_at": "2026-02-15T17:22:48.488729Z",
+  "base_href_used": false,
+  "base_href_value": null,
+  "budgets": {
+    "max_pages": 1,
+    "max_assets": 200,
+    "max_assets_per_page": 200,
+    "max_redirects": 5,
+    "max_css_import_depth": 2,
+    "max_html_bytes": 2097152,
+    "max_css_bytes": 1048576,
+    "max_asset_bytes": 104857600,
+    "max_total_asset_bytes": 52428800
+  },
+  "budgets_used": {
+    "pages": 1,
+    "assets": 47,
+    "total_asset_bytes": 2579627
+  },
+  "counts": {
+    "html_pages": 1,
+    "assets_total": 60,
+    "assets_included": 47,
+    "assets_excluded": 13
+  },
+  "excluded": [
+    {
+      "url": "https://code.jquery.com/jquery-3.7.1.min.js",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://file.garden/Z3f2Vlxsb21HAqH2/ACTBM.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://file.garden/Z3f2Vlxsb21HAqH2/CB.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://file.garden/Z3f2Vlxsb21HAqH2/CWN.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://file.garden/Z3f2Vlxsb21HAqH2/ET.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://file.garden/Z3f2Vlxsb21HAqH2/FOT.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://file.garden/Z3f2Vlxsb21HAqH2/LTE.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://file.garden/Z3f2Vlxsb21HAqH2/MoAO.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://file.garden/Z3f2Vlxsb21HAqH2/SOPH.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://file.garden/Z3f2Vlxsb21HAqH2/UC.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://file.garden/Z3f2Vlxsb21HAqH2/WIWI.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://file.garden/Z3f2Vlxsb21HAqH2/coffeebrain.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://file.garden/Z3f2Vlxsb21HAqH2/entropy.webp",
+      "reason": "cross_origin_blocked"
+    }
+  ],
+  "mapping": {
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=20&url=_astro%2Fbeans.Bm5zvGVa.webp&w=20": {
+      "local_path": "assets/30662503062b7408ef56a691ed8e1799d81047496123ee61854f93f7ae51cd79.webp",
+      "content_type": "image/webp"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=20&url=_astro%2Fcatspin.BpHb31om.gif&w=20": {
+      "local_path": "assets/f70840bd9fe55ffc03d9cf09886aa9a772ad9ee531f7dd9bea375c55df1a219b.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=20&url=_astro%2Flilguys.DOPukf1v.gif&w=120": {
+      "local_path": "assets/881be2e8a9352eb9a4f47fa271b994c31e47ff52554a27b1bbe4af7f1b2fb0ef.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=20&url=_astro%2FnukoBrowsing.WmWLBhdU.gif&w=20": {
+      "local_path": "assets/1600c2d54d1e594d4cfb5b757efb32120a8f547297b7f35f7ab5a121b888f737.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=20&url=_astro%2FnukoCaramelldansen.D8WM1ADj.gif&w=20": {
+      "local_path": "assets/cc18584a60af50db6154a404de7f276a8d1591c0df0c544b078910f9881b6890.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=20&url=_astro%2FnukoHamburger.D5GabPeQ.gif&w=20": {
+      "local_path": "assets/c110fe670a0285135583896bfecfa518e39322c70bff9eb6ff1d805a67094a57.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=20&url=_astro%2FnukoListenMusic.BeJsTosA.gif&w=20": {
+      "local_path": "assets/f9515760082ecc51524d6ac3d01b7caf28ff0410ca323c378535570fdc1f177a.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=20&url=_astro%2FnukoNerd3.Bx8t1Xe4.gif&w=20": {
+      "local_path": "assets/fb885f20b5c4383e62d1d1e28427f08a7ca62ccb22277eabd5baa22ce09002e2.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=51&url=_astro%2Flogo.Bw3FzQPs.png&w=53": {
+      "local_path": "assets/60ed555beb9167588f2f384b0337876fbd6f3940fb4dd56ccf1f4b8eb13d00fa.png",
+      "content_type": "image/png"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=54&url=_astro%2Fjirachi.BLmjvQla.webp&w=99": {
+      "local_path": "assets/ed72ad4557cb82fad2896c61db814d772d76533bed3e4a087db44815afa625a7.webp",
+      "content_type": "image/webp"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=55&url=_astro%2Fcinnamoroll.BJP2Dz3I.webp&w=99": {
+      "local_path": "assets/1cd3dffbf8dc482138827d7f67c2ca9cdfb561eb07185831b1fa4a5c4e8d7cd3.webp",
+      "content_type": "image/webp"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=55&url=_astro%2Ffish.Mm3iZuww.webp&w=99": {
+      "local_path": "assets/ceb330dd7c1f4194c819d47e4024fab45171b57c3d5ed3479ef7e4b4ba61321c.webp",
+      "content_type": "image/webp"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fbayo.Di-qrYQf.gif&w=99": {
+      "local_path": "assets/7bac5bb9b8d3ee9b324cda35bc5c0a9c69831a5a2e21224cd9916344ad5466ee.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fcat.BspB8asD.png&w=99": {
+      "local_path": "assets/484d56cccab5ad728f8185c6e0b495e58bf356e2bb6ac11d176874b61c934e8f.png",
+      "content_type": "image/png"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fchii_stamp.Bxqqqz_g.webp&w=100": {
+      "local_path": "assets/09f5be0eebb5ad5efb9b010475eb4818042384450de0e0a402e31f655ad2e603.webp",
+      "content_type": "image/webp"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fcoffeecat.C6xHSlmk.png&w=99": {
+      "local_path": "assets/9c50fe8a94f4917551a2fade685fa9790572ce8fcb6f8dba5ccfca199af9c37c.png",
+      "content_type": "image/png"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fcomfy.Da7o_g6j.webp&w=99": {
+      "local_path": "assets/e60d8f4da672459e2ef4a521e1de35c126fee8113bf96df1d2f2e000033d9293.webp",
+      "content_type": "image/webp"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fds.tQxIFjKd.png&w=99": {
+      "local_path": "assets/2379604484e36fe26781958687cf01b38b58848ce6e0c7a8f79fb6c11a4a64f0.png",
+      "content_type": "image/png"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fely.DBdNdLoL.webp&w=100": {
+      "local_path": "assets/a6d128dfc5965866e61ed530df43f0fbc0f86d865ae01461cd2f39b8a0247c04.webp",
+      "content_type": "image/webp"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Feva.BVuMQNAp.gif&w=99": {
+      "local_path": "assets/4a700faabd2908155da3637eab61d6a65e8cc88e88ae63c18a9d9e36e907c986.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Feva.D5Pmi9W-.webp&w=99": {
+      "local_path": "assets/9e7ed14213d786d547e09675012eb16f3f25a43fe64c357e08fb26fcf0f9aceb.webp",
+      "content_type": "image/webp"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fkeys.MU7NQrM-.gif&w=99": {
+      "local_path": "assets/bc657b4c93bd021f5db63d6cbe0d0f553062402a4fd25b332921b99a0bdca567.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Flina.DxyNHVsv.png&w=99": {
+      "local_path": "assets/3ac5ebb2295cecf9a53a4c88e2b91e9ef6a855c1401c54f028f6b54c146fa42f.png",
+      "content_type": "image/png"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fmarina.B_5Hc4b1.webp&w=99": {
+      "local_path": "assets/a96641f9e2d3b472275b8101142de181551e1e4530f018847a4004822d6aae3d.webp",
+      "content_type": "image/webp"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fmiffy.DXnd6Vqo.png&w=99": {
+      "local_path": "assets/932972563d794c65f41f669c6d1799851bcf11b9f1f5a13db2c6aa658b0276ae.png",
+      "content_type": "image/png"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fmikuflop.BbRgW9Z0.webp&w=99": {
+      "local_path": "assets/68fe2b65baf89fe8786dcf668f69835700e0ef9819c840771e96771f6b2a9cad.webp",
+      "content_type": "image/webp"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fnier.5TRhp62U.gif&w=99": {
+      "local_path": "assets/92cb42e4c322297c32b3e0504c9dcfbbc5903e60d60d491047f6dc049ad24993.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Franma.C-eTtHIR.gif&w=99": {
+      "local_path": "assets/c9a1f8cb7e86bd7075d397b228b94f5810b4adb00472cd2a01e79d74b8a12be1.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Frila.8B-SAyij.png&w=99": {
+      "local_path": "assets/28693f11076dd6cbb34c2554ec0f8d03748f6f4f2ab5b93bc1a287fe28e67eae.png",
+      "content_type": "image/png"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fsaturn.BdWZgetN.gif&w=99": {
+      "local_path": "assets/ed6bf67e5d6a53e4117b41ec9190254528834fa70f490de5bfa1d1ffa53e8c1c.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fseba.9-teTspw.gif&w=99": {
+      "local_path": "assets/e8e3a6d0de46eb7eec959a3fd7b2511dfcca33f55191125150fc43824ccc4f11.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fsylveon.DWbJdntC.gif&w=99": {
+      "local_path": "assets/1ff7a26abc821b4081ab2630adb0e17c287e8d836a33944c2e66fa7b8ae35908.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=56&url=_astro%2Fvinyl.mF1HsPL5.gif&w=99": {
+      "local_path": "assets/d71150163a6ef457a63fb6fe6ea871fc9fc49f2449a537f0a679727b3ec9c200.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=57&url=_astro%2Fcat.Bxy7WsMH.webp&w=99": {
+      "local_path": "assets/408c717404ef0d324271126a4e37c7ef01e10d3583a6b44576caf890688ae88e.webp",
+      "content_type": "image/webp"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=57&url=_astro%2Feyes.C2CrGcYB.gif&w=101": {
+      "local_path": "assets/2726cc5bf7aae81b7330ec424baebfe5b467efb4657eaaa7b78aee36a8278b63.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=57&url=_astro%2Fkaine.D95_5pK5.webp&w=99": {
+      "local_path": "assets/e1ccf7d103653dbfc3bfbbad1badca5215f8660e5f7e13959c425e21468641af.webp",
+      "content_type": "image/webp"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=58&url=_astro%2Falien.NS0qRCtl.png&w=101": {
+      "local_path": "assets/4ed6a8bb7f6d01f55470cd56e73dfe5833e5937ad55d0debdcc79cce8a9e5df8.png",
+      "content_type": "image/png"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=58&url=_astro%2Fblahaj.CjSlt0-K.png&w=101": {
+      "local_path": "assets/1de443619f523bfe0904c031cf03795a7011dff41fb88a7b8cc9d037054bdf91.png",
+      "content_type": "image/png"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=64&url=_astro%2Fcoffee_blink.Dd5WfE_y.webp&w=498": {
+      "local_path": "assets/5b2a6ce0f0bde2a0d89d9558949dad75d4a6eacd74a4522e286ce4266b512393.webp",
+      "content_type": "image/webp"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=736&url=_astro%2Fcinnacoffee.B6rNS0gf.jpg&w=736": {
+      "local_path": "assets/53ca132e39f8f235b170b2e87be27d8cecb4a6df33c6bf4e0275e2ea298a9728.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=736&url=_astro%2Fmiffy.0ckmMv9x.jpg&w=736": {
+      "local_path": "assets/f771623faeb54f0997968eddbca3009627326b2c992de06e57537c15761c32e0.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=736&url=_astro%2Fmiku.C-dyb5Fu.jpg&w=736": {
+      "local_path": "assets/db02ffb15ef1910f3dabc323fbb525665fee68017daaa33829b20a23e635e7b1.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=83&url=_astro%2Fmiku.C977P697.gif&w=100": {
+      "local_path": "assets/5119027f9df852ced42fb479ee4cb895379b740d2db2343f66ffa7a43c3dd666.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/.netlify/images?dpl=0&h=85&url=_astro%2Ftoro.B0b2EVI-.gif&w=49": {
+      "local_path": "assets/407dfd31d6e7cbbd50f8b393d52e66873503443bc4576b6d4873a6cef5316c91.gif",
+      "content_type": "image/gif"
+    },
+    "https://maya-cafe.netlify.app/_astro/about.pOYMZnh-.css?dpl=0": {
+      "local_path": "assets/4c9dcec0e6038361f60bbf79b16b3a45cbd35b3e82a4d63f972126b5e38bfc1e.css",
+      "content_type": "text/css; charset=UTF-8"
+    },
+    "https://maya-cafe.netlify.app/_astro/bg.1mnMPH56.jpeg": {
+      "local_path": "assets/a332f0c1b808548bc0b9763c25eddc606da33c4bb480704c3b245194ba6a7849.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://maya-cafe.netlify.app/favicon.ico": {
+      "local_path": "assets/8ff1f6e200db40d23fa53fafbb70ffa95eac5f52b3c3ab94a554fe93fb371dd0.bin",
+      "content_type": "image/vnd.microsoft.icon"
+    }
+  },
+  "heuristics": {
+    "script_src_count": 2,
+    "meaningful_elements": 200,
+    "text_content_length": 4209
+  }
+}
