@@ -5,8 +5,7 @@ export default function Footer() {
     <footer className={styles.footer}>
       <div className={styles.footerContent}>
         <div className={styles.footerText}>
-          <p>Agentic Lab • AI Community</p>
-          <p className={styles.version}>created with Agentic Lab - Core Team</p>
+          <p className={styles.version}>Agentic Lab • AI Community • created by Core Team</p>
         </div>
       </div>
     </footer>
