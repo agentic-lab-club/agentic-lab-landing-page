@@ -37,10 +37,10 @@ export default function SnowAnimation() {
       snowflakes.push({
         x: Math.random() * canvas.width,
         y: Math.random() * canvas.height,
-        radius: Math.random() * 3 + 2, // Snow size: 2-5px
+        radius: Math.random() * 1 + 1, // Snow size: 1-2px (small white dots)
         speed: Math.random() * 1 + 0.5, // Fall speed: 0.5-1.5
         drift: Math.random() * 0.5 - 0.25, // Horizontal drift: -0.25 to 0.25
-        opacity: Math.random() * 0.5 + 0.3, // Opacity: 0.3-0.8
+        opacity: 1.0, // Solid white
       });
     }
 
@@ -52,11 +52,8 @@ export default function SnowAnimation() {
       snowflakes.forEach((flake) => {
         ctx.beginPath();
         ctx.arc(flake.x, flake.y, flake.radius, 0, Math.PI * 2);
-        ctx.fillStyle = `rgba(255, 255, 255, ${flake.opacity})`;
-        ctx.shadowBlur = 4;
-        ctx.shadowColor = 'rgba(255, 255, 255, 0.5)';
+        ctx.fillStyle = '#ffffff'; // Solid white
         ctx.fill();
-        ctx.shadowBlur = 0;
 
         // Update position
         flake.y += flake.speed;

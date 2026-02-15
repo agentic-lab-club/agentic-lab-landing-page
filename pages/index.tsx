@@ -80,6 +80,9 @@ export default function Home() {
           </p>
           <ul className="list-disc list-inside space-y-2">
             <li>
+              <b>Coming Soon:</b> Correct Descriptions and RU/ENG languages
+            </li>
+            <li>
               <b>Coming Soon:</b> Member profiles and project showcase
             </li>
             <li>
@@ -118,6 +121,15 @@ export default function Home() {
           <div className="w-full flex justify-center px-4">
             <div className="w-full max-w-6xl border-2 border-dashed rounded border-stone-600 p-4">
               <div className="text-center">
+                {/* Adaptive Logo */}
+                <div className="flex justify-center mb-6">
+                  <img 
+                    src="/agentic-lab-ai-community-core-red-500-500.svg" 
+                    alt="Agentic Lab" 
+                    className="w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48 lg:w-56 lg:h-56 object-contain select-none"
+                  />
+                </div>
+                
                 <h1 className="mt-4 text-3xl">Welcome to Agentic Lab! ♡</h1>
                 <p>
                   We are an <b><i>AI community focused on building intelligent agents and exploring AI technologies!</i></b>
