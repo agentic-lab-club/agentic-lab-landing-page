@@ -253,8 +253,8 @@ npm run export  # Static export
 
 For questions about this codebase:
 - Created by: Agentic Lab Core Team
-- Community: [Telegram](https://t.me/agenticlab), [Discord](https://discord.gg/agenticlab)
-- Instagram: [@agenticlab](https://instagram.com/agenticlab)
+- Community: [Telegram](https://t.me/+mNVOoDBnPxs2MTgy), [Discord](https://discord.gg/3u3ZseCK7v)
+- Instagram: [@agentic_lab](https://www.instagram.com/agentic_lab)
 
 ---
 

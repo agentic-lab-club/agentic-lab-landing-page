@@ -11,27 +11,27 @@ export default function Socials() {
   const socialLinks = [
     {
       name: 'Instagram',
-      url: 'https://instagram.com/agenticlab',
+      url: 'https://www.instagram.com/agentic_lab',
       icon: <FaInstagram className="inline" height="20" width="20" />,
     },
     {
       name: 'Telegram Channel',
-      url: 'https://t.me/agenticlab',
+      url: 'https://t.me/agenticslab',
       icon: <FaTelegram className="inline" height="20" width="20" />,
     },
     {
       name: 'Telegram Chat',
-      url: 'https://t.me/agenticlab_chat',
+      url: 'https://t.me/+mNVOoDBnPxs2MTgy',
       icon: <FaTelegram className="inline" height="20" width="20" />,
     },
     {
       name: 'LinkedIn',
-      url: 'https://linkedin.com/company/agenticlab',
+      url: 'https://www.linkedin.com/company/agentics-lab',
       icon: <FaLinkedin className="inline" height="20" width="20" />,
     },
     {
       name: 'Discord Server',
-      url: 'https://discord.gg/agenticlab',
+      url: 'https://discord.gg/3u3ZseCK7v',
       icon: <FaDiscord className="inline" height="20" width="20" />,
     },
   ];

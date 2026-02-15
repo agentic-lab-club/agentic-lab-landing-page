@@ -160,9 +160,9 @@ agentic-lab-landing-page/
 ## Contributing
 
 This project is maintained by the Agentic Lab Core Team. For questions or contributions:
-- Instagram: [@agenticlab](https://instagram.com/agenticlab)
-- Telegram: [@agenticlab](https://t.me/agenticlab)
-- Discord: [Join Server](https://discord.gg/agenticlab)
+- Instagram: [@agentic_lab](https://www.instagram.com/agentic_lab)
+- Telegram Channel: [@agenticslab](https://t.me/agenticlab)
+- Community: [Telegram Chat](https://t.me/+mNVOoDBnPxs2MTgy), [Discord Server](https://discord.gg/3u3ZseCK7v)
 
 ## License
 
